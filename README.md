@@ -1,5 +1,7 @@
 # YokTarots
 
+![image](https://github.com/user-attachments/assets/647056eb-a757-4492-9f8b-03c8cbe0a3d1)
+
 A mod that replaces all 22 vanilla Tarot cards in Balatro with artwork based on characters from [fractalthorns](https://fractalthorns.com).
 
 ## Get it
