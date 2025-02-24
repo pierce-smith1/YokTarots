@@ -1,0 +1,13 @@
+{
+	"id": "YokTarots",
+	"name": "YokTarots",
+	"display_name": "Fractalthorns Tarot Cards",
+	"author": ["BerylRose"],
+	"description": "Fractalthorns inspired re-drawings of all 22 tarot cards.",
+	"prefix": "yoktarots",
+	"main_file": "YokTarots.lua",
+	"priority": 0,
+	"badge_colour": "EA0042",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0"
+}
